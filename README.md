@@ -18,7 +18,7 @@ Description :
   
   Tool used - R & Shiny
   
-  Project 3 - Title : 
+  Project 3 - Title : LEGO BRICKS IMAGE CLASSIFICATION
   
   Description:
     Here, I used classification technique such as Convolution neural networks(CNN) to classify the Lego brick
